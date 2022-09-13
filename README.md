@@ -20,5 +20,5 @@ Hasta hoy mi trabajo ha sido fundamentalmente diseñar, evaluar e implementar pi
 ## Experiencia profesional 
 * Analista de datos NGS. Laboratorios Larrasa. 4/2022- 
 ## Pipelines diseñados
-* Análisis de muestras metagenómicas. [Ver más](aqui)
+* Análisis de muestras metagenómicas. [Ver más](https://github.com/M-Pimienta/M-Pimienta/tree/main/Metagen%C3%B3mica-I)
 * Análisis DNASeq Variant Calling. [Ver más](aquí)
