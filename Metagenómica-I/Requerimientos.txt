@@ -1,0 +1,7 @@
+- fastp (https://github.com/OpenGene/fastp)
+- MetaPhlAn 4.0 (https://github.com/biobakery/metaphlan/)
+- Krona (https://github.com/marbl/Krona)
+- SPAdes (https://github.com/ablab/spades)
+- AMRFinderPlus (https://www.ncbi.nlm.nih.gov/pathogens/antimicrobial-resistance/AMRFinder/)
+
+Se generan para cada muestra tablas taxonómicas y de abundancias que se utilizan como input en RStudio, tratadas mediante el paquete Phyloseq (https://joey711.github.io/phyloseq/index.html).
