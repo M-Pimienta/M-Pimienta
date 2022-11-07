@@ -81,7 +81,7 @@ do
 
       	awk '$7 != "unknown" {print $0}' $PWD/DNASeq/tmp/tmp_filtro4-11.tsv > $PWD/DNASeq/tmp/tmp_filtro4_12.tsv
       	tr " " "\t" < $PWD/DNASeq/tmp/tmp_filtro4_12.tsv | tr -s "\t" > $PWD/DNASeq/${bn}/${bn}_FILT4_SO.tsv
-      	rm $PWD/DNASeq/tmp/*
+      	rm -rf $PWD/DNASeq/tmp
 
 	#Filtro V: Paneles // Se puede añadir aquí cualquier panel de genes
 	#Portadores V1
